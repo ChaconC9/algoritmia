@@ -4,6 +4,7 @@
 El usuario necesita que le presten dinero, solo tiene billetes de 100, no se tienen otras cantidades menores ni mayores y lo que se puede prestar es infinito. decir cuantos billetes le debe entregar y cuanto dinero no le puede prestar ejemplo 120$ se debe de dar 1 billete de 100 y no se pueden prestar 20$
 
 ##Pseudocódigo
+Inicio  
 BILLETES = 100  
 Leer dinero_pedido  
 
