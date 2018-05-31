@@ -8,25 +8,25 @@ Inicio
 BILLETES = 100  
 Leer dinero_pedido  
 
-BILLETES_A_PRESTAR = dinero_pedido/BILLETES  
-DINERO_QUE_NO_SE_PUEDE = dinero_pedido%BILLETES  
-Imprimir BILLETES_A_PRESTAR  
-Imprimir DINERO_QUE_NO_SE_PUEDE  
+BILLETES_A_PRESTAR = dinero_pedido / BILLETES  
+DINERO_QUE_NO_SE_PUEDE = dinero_pedido % BILLETES  
+Imprimir "los billetes que se entregaran son:", BILLETES_A_PRESTAR  
+Imprimir "El dinero que no se puede prestar es:" DINERO_QUE_NO_SE_PUEDE  
 
 Fin
 
 ##Corridas de escritorio
 BILLETES = 100  
 dinero_pedido = 2003  
-BILLETES_A_PRESTAR = 2003/100=20  
-DINERO_QUE_NO_SE_PUEDE = 2003%100=3  
+BILLETES_A_PRESTAR = 2003 / 100 = 20  
+DINERO_QUE_NO_SE_PUEDE = 2003 % 100 = 3  
 
 BILLETES = 100  
 dinero_pedido = 54863  
-BILLETES_A_PRESTAR = 54863/100=548  
-DINERO_QUE_NO_SE_PUEDE = 54863%100=63  
+BILLETES_A_PRESTAR = 54863 / 100= 548  
+DINERO_QUE_NO_SE_PUEDE = 54863 % 100 = 63  
 
 BILLETES = 100  
 dinero_pedido = 8383  
-BILLETES_A_PRESTAR = 8383/100=83  
-DINERO_QUE_NO_SE_PUEDE = 8383%100=83  
+BILLETES_A_PRESTAR = 8383 / 100 = 83  
+DINERO_QUE_NO_SE_PUEDE = 8383 % 100 = 83  
